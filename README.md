@@ -10,8 +10,6 @@ Basic primary features are added like
 
 3. Mobile responsive.
 
-Developed by karthik (please recommend the improvements).
-
 Application Link
 https://online-notes13.netlify.app/
 
